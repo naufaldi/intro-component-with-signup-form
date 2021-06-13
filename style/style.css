@@ -120,9 +120,14 @@ input[type=submit]:hover {
   opacity: 0.8;
 }
 
-footer {
+.attribution {
   position: absolute;
   bottom: 0;
   width: 100%;
+  color: white;
+}
+
+.attribution a {
+  font-size: 11px;
 }
 /*# sourceMappingURL=style.css.map */
