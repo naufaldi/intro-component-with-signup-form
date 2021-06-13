@@ -105,8 +105,12 @@ input[type=submit]{
     }
 }
 
-footer{
+.attribution{
     position: absolute;
     bottom: 0;
     width: 100%;
+    color: white;
+    a {
+        font-size: 11px;
+    }
 }
